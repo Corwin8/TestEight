@@ -17,6 +17,6 @@ public class LogicOperators : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
-	}
+
+    }
 }
